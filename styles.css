@@ -1,0 +1,28 @@
+body {
+	text-align: center;
+	color: rgba(0,0,0,.5); 
+	font-family: 'Crimson Text', serif;
+	text-transform: uppercase;
+	letter-spacing: .7em;
+	top: 15%;;
+	background: linear-gradient(to right, red, yellow);
+
+}
+
+h1 {
+	text-align: center;
+	color: rgba(0,0,0,.5); 
+	font-family: 'Crimson Text', serif;
+	text-transform: uppercase;
+	letter-spacing: .7em;
+	width: 100%;
+}
+
+h3 {
+	text-align: center;
+	color: rgba(0,0,0,.5); 
+	font-family: 'Crimson Text', serif;
+	text-transform: uppercase;
+	letter-spacing: .2em;
+
+}
